@@ -1,2 +1,4 @@
 1、在docker里运行swool项目后，直接kill掉php进程，再跑项目报
-    ··swShareMemory_mmap_create: mmap() failed. Error: Cannot allocate memory··
+```shell
+swShareMemory_mmap_create: mmap() failed. Error: Cannot allocate memory
+```
